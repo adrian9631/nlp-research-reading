@@ -41,7 +41,7 @@ https://openai.com/blog/language-unsupervised/
 https://openai.com/blog/better-language-models/  
 
 ### RoBERTa
-RoBERTa: A Robustly Optimized BERT Pretraining Approach  
+- RoBERTa: A Robustly Optimized BERT Pretraining Approach  
 https://arxiv.org/abs/1907.11692  
 
 ### XLNet
