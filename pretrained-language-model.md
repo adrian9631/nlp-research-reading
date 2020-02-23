@@ -45,6 +45,9 @@ RoBERTa: A Robustly Optimized BERT Pretraining Approach
 https://arxiv.org/abs/1907.11692  
 
 ### XLNet
+- Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context  
+https://arxiv.org/abs/1901.02860  
+  
 - XLNet: Generalized Autoregressive Pretraining for Language Understanding  
 https://arxiv.org/abs/1906.08237  
 
