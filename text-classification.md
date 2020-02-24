@@ -37,6 +37,20 @@ https://www.aclweb.org/anthology/P17-1052/
 ### HAN  
 - Hierarchical Attention Networks for Document Classification  
 https://www.aclweb.org/anthology/N16-1174/  
+
+### Capsule
+- Dynamic Routing Between Capsules  
+https://arxiv.org/abs/1710.09829  
+  
+- Matrix Capsules with EM Routing   
+https://openreview.net/pdf?id=HJWLfGWRb  
+  
+- Investigating Capsule Networks with Dynamic Routing for Text Classification  
+https://arxiv.org/abs/1804.00538  
+
+### GCN  
+- Graph Convolutional Networks for Text Classification  
+https://arxiv.org/abs/1809.05679  
   
 ### Transformer
 #### seq2seq   
