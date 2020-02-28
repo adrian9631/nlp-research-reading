@@ -1,3 +1,5 @@
+### Policy-based
+
 #### PG
 - Policy Gradient methods for reinforcement learning with function approximation  
 https://homes.cs.washington.edu/~todorov/courses/amath579/reading/PolicyGradient.pdf  
