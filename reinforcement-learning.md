@@ -48,3 +48,20 @@ https://arxiv.org/abs/1707.06887
 #### Rainbow DQN
 - Rainbow: Combining Improvements in Deep Reinforcement Learning (Rainbow DQN)  
 https://arxiv.org/abs/1710.02298
+
+## Policy & Value
+#### A3C
+- Asynchronous Methods for Deep Reinforcement Learning  
+https://arxiv.org/abs/1602.01783  
+
+#### DPG
+- Deterministic Policy Gradient Algorithms  
+http://www0.cs.ucl.ac.uk/staff/d.silver/web/Applications_files/deterministic-policy-gradients.pdf  
+
+#### DDPG
+- Continuous control with deep reinforcement learning  
+https://arxiv.org/abs/1509.02971  
+
+#### GAN & AC 
+- Connecting Generative Adversarial Networks and Actor-Critic Methods  
+https://arxiv.org/abs/1610.01945  
