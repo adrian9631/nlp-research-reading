@@ -65,3 +65,10 @@ https://arxiv.org/abs/1509.02971
 #### GAN & AC 
 - Connecting Generative Adversarial Networks and Actor-Critic Methods  
 https://arxiv.org/abs/1610.01945  
+
+#### Reward Shaping
+- Policy invariance under reward transformations: Theory and application to reward shaping  
+http://www.eecs.harvard.edu/cs286r/courses/spring06/papers/ngharruss_shap99.pdf    
+  
+- Curiosity-driven Exploration by Self-supervised Prediction  
+https://arxiv.org/abs/1705.05363v1  
