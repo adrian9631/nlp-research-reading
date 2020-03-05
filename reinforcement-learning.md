@@ -72,3 +72,7 @@ http://www.eecs.harvard.edu/cs286r/courses/spring06/papers/ngharruss_shap99.pdf
   
 - Curiosity-driven Exploration by Self-supervised Prediction  
 https://arxiv.org/abs/1705.05363v1  
+
+#### Hierarchical RL
+- Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation  
+https://arxiv.org/abs/1604.06057  
