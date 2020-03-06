@@ -76,3 +76,7 @@ https://arxiv.org/abs/1705.05363v1
 #### Hierarchical RL
 - Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation  
 https://arxiv.org/abs/1604.06057  
+
+#### Inverse Reinforcement Learning  
+- Algorithms for Inverse Reinforcement Learning  
+https://ai.stanford.edu/~ang/papers/icml00-irl.pdf  
