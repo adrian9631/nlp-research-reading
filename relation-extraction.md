@@ -31,3 +31,6 @@ https://arxiv.org/abs/1905.08284
   
 - Matching the Blanks: Distributional Similarity for Relation Learning  
 https://www.aclweb.org/anthology/P19-1279/  
+  
+- A Novel Hierarchical Binary Tagging Framework for Joint Extraction of Entities and Relations  
+https://arxiv.org/abs/1909.03227  
