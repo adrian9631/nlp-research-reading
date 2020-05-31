@@ -28,6 +28,9 @@ https://arxiv.org/abs/1508.04025v3
 - Attention Is All You Need  
 https://arxiv.org/abs/1706.03762  
 
+- Synthesizer: Rethinking Self-Attention in Transformer Models  
+https://arxiv.org/abs/2005.00743  
+  
 #### bert
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding  
 https://arxiv.org/abs/1810.04805  
