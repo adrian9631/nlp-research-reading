@@ -4,6 +4,10 @@ https://arxiv.org/abs/1603.07252
   
 ### Generative
 
+### Language Model Based
+- Text Summarization with Pretrained Encoders  
+https://arxiv.org/abs/1908.08345  
+
 ### Pointer Network
 - Pointer Networks  
 https://arxiv.org/abs/1506.03134  
