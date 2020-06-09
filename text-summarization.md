@@ -4,6 +4,10 @@ https://arxiv.org/abs/1603.07252
   
 ### Generative
 
+### Reinforced Training Method
+- **A Deep Reinforced Model for Abstractive Summarization**  
+https://arxiv.org/abs/1705.04304  
+  
 ### Language Model Based
 - **Text Summarization with Pretrained Encoders**  
 https://arxiv.org/abs/1908.08345  
