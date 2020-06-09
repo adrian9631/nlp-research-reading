@@ -14,12 +14,12 @@ https://arxiv.org/abs/1506.03134
   
 - **Incorporating Copying Mechanism in Sequence-to-Sequence Learning**   
 https://arxiv.org/abs/1603.06393  
-**keyword: Copying Mechanism**
+keyword: **Copying Mechanism**
 
 - **Get To The Point: Summarization with Pointer-Generator Networks**  
 https://arxiv.org/abs/1704.04368  
-**keyword: Copying Mechanism; Coverage Mechanism**
+keyword: **Copying Mechanism;  Coverage Mechanism**
 
 - **Concept Pointer Network for Abstractive Summarization**  
 https://arxiv.org/abs/1910.08486  
-**keyword: Concept Graph; Distant Supervision; RL**  
+keyword: **Concept Graph;  Distant Supervision;  RL**  
