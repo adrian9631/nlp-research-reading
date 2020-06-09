@@ -1,19 +1,25 @@
 ### Extractive
-- Neural Summarization by Extracting Sentences and Words  
+- **Neural Summarization by Extracting Sentences and Words**  
 https://arxiv.org/abs/1603.07252 
   
 ### Generative
 
 ### Language Model Based
-- Text Summarization with Pretrained Encoders  
+- **Text Summarization with Pretrained Encoders**  
 https://arxiv.org/abs/1908.08345  
 
 ### Pointer Network
-- Pointer Networks  
+- **Pointer Networks**  
 https://arxiv.org/abs/1506.03134  
   
-- Get To The Point: Summarization with Pointer-Generator Networks  
-https://arxiv.org/abs/1704.04368  
-  
-- Incorporating Copying Mechanism in Sequence-to-Sequence Learning   
+- **Incorporating Copying Mechanism in Sequence-to-Sequence Learning**   
 https://arxiv.org/abs/1603.06393  
+**keyword: Copying Mechanism**
+
+- **Get To The Point: Summarization with Pointer-Generator Networks**  
+https://arxiv.org/abs/1704.04368  
+**keyword: Copying Mechanism; Coverage Mechanism**
+
+- **Concept Pointer Network for Abstractive Summarization**  
+https://arxiv.org/abs/1910.08486  
+**keyword: Concept Graph; Distant Supervision; RL**  
