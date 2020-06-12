@@ -7,6 +7,7 @@ https://arxiv.org/abs/1603.07252
 ### Reinforced Training Method
 - **A Deep Reinforced Model for Abstractive Summarization**  
 https://arxiv.org/abs/1705.04304  
+keyword: **Policy Learning**  
   
 ### Language Model Based
 - **Text Summarization with Pretrained Encoders**  
