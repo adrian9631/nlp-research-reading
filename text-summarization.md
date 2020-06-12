@@ -2,7 +2,10 @@
 - **Neural Summarization by Extracting Sentences and Words**  
 https://arxiv.org/abs/1603.07252 
   
-### Generative
+### Generative  
+- **Deep Keyphrase Generation**  
+https://arxiv.org/abs/1704.06879  
+keyword: **Copying Mechanism;  Keyphrase Generation**  
 
 ### Reinforced Training Method
 - **A Deep Reinforced Model for Abstractive Summarization**  
