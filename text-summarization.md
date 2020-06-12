@@ -31,3 +31,8 @@ keyword: **Copying Mechanism;  Coverage Mechanism**
 - **Concept Pointer Network for Abstractive Summarization**  
 https://arxiv.org/abs/1910.08486  
 keyword: **Concept Graph;  Distant Supervision;  RL**  
+
+- **Improving Latent Alignment in Text Summarization by Generalizing the Pointer Generator**  
+https://www.aclweb.org/anthology/D19-1390/  
+keyword: **Copying Mechanism; Latent Alignment(tense;paraphrase;pos...)**
+
