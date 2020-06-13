@@ -12,6 +12,14 @@ keyword: **Copying Mechanism;  Keyphrase Generation**
 https://arxiv.org/abs/1705.04304  
 keyword: **Policy Learning**  
   
+### Text Editing
+- **Encode, Tag, Realize: High-Precision Text Editing**  
+https://arxiv.org/abs/1909.01187  
+
+- **Improving Latent Alignment in Text Summarization by Generalizing the Pointer Generator**  
+https://www.aclweb.org/anthology/D19-1390/  
+keyword: **Copying Mechanism; Latent Alignment(tense;paraphrase;pos...)**
+  
 ### Language Model Based
 - **Text Summarization with Pretrained Encoders**  
 https://arxiv.org/abs/1908.08345  
@@ -32,7 +40,5 @@ keyword: **Copying Mechanism;  Coverage Mechanism**
 https://arxiv.org/abs/1910.08486  
 keyword: **Concept Graph;  Distant Supervision;  RL**  
 
-- **Improving Latent Alignment in Text Summarization by Generalizing the Pointer Generator**  
-https://www.aclweb.org/anthology/D19-1390/  
-keyword: **Copying Mechanism; Latent Alignment(tense;paraphrase;pos...)**
+
 
