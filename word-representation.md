@@ -6,7 +6,7 @@ https://arxiv.org/abs/1301.3781
 - Word2vec Parameter Learning Explained  
 https://arxiv.org/abs/1411.2738
 
-- Word2vec Explained- Deriving Mikolov et al.’s Negative-Sampling Word-Embedding Method
+- Word2vec Explained- Deriving Mikolov et al.’s Negative-Sampling Word-Embedding Method  
 http://arxiv.org/abs/1402.3722v1
 
 ### doc2vec
