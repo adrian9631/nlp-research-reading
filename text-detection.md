@@ -15,4 +15,8 @@ https://arxiv.org/abs/1603.05027
 - **Shape Robust Text Detection with Progressive Scale Expansion Network**  
 https://arxiv.org/abs/1903.12473  
 
+#### DBNet 
+- **Real-time Scene Text Detection with Differentiable Binarization**  
+https://arxiv.org/abs/1911.08947  
+
 ### Recognition
