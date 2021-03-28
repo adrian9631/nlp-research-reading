@@ -2,8 +2,11 @@
 - Learning from Very Few Samples: A Survey.  
 https://arxiv.org/abs/2009.02653  
 
-- Matching Networks for One Shot Learning  
+- Matching Networks for One Shot Learning.  
 https://arxiv.org/abs/1606.04080  
+
+- Prototypical Networks for Few-shot Learning.  
+https://arxiv.org/abs/1703.05175
 
 - Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks.  
 https://arxiv.org/abs/1703.03400
