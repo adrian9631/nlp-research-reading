@@ -82,6 +82,10 @@ https://arxiv.org/abs/1911.00720
 - ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators  
 https://openreview.net/forum?id=r1xMH1BtvB  
 
-### LongFormer  
+### Longformer  
 - Longformer: The Long-Document Transformer  
-https://arxiv.org/abs/2004.05150
+https://arxiv.org/abs/2004.05150  
+
+### Reformer  
+- Reformer: The Efficient Transformer  
+https://arxiv.org/abs/2001.04451  
