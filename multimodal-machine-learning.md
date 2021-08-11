@@ -2,6 +2,13 @@
 - Multimodal Machine Learning: A Survey and Taxonomy.  
 https://arxiv.org/abs/1705.09406  
 
+#### Low-rank Bilinear Pooling  
+- Hadamard Product for Low-rank Bilinear Pooling  
+https://arxiv.org/abs/1610.04325  
+
+#### Adaptive Fusion  
+- Adaptive Fusion Techniques for Multimodal Data  
+https://arxiv.org/abs/1911.03821。  
 
 ### Pretrain V&L Model  
 #### ViLBERT  
