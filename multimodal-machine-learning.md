@@ -11,6 +11,11 @@ https://arxiv.org/abs/1610.04325
 https://arxiv.org/abs/1911.03821  
 
 ### Pretrain V&L Model  
+
+#### Transformer-basic
+- Transformer-Exclusive Cross-Modal Representation for Vision and Language  
+https://aclanthology.org/2021.findings-acl.240/  
+
 #### ViLBERT  
 - ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks  
 https://arxiv.org/abs/1908.02265  
