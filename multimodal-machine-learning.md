@@ -10,6 +10,11 @@ https://arxiv.org/abs/1610.04325
 - Adaptive Fusion Techniques for Multimodal Data  
 https://arxiv.org/abs/1911.03821  
 
+### Pretrain Vision Model  
+#### ViT  
+- An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale  
+https://arxiv.org/abs/2010.11929  
+
 ### Pretrain V&L Model  
 
 #### Transformer-basic
