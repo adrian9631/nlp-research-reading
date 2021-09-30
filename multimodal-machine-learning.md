@@ -44,3 +44,7 @@ https://arxiv.org/abs/1908.03557
 #### UNITER  
 - UNITER: UNiversal Image-TExt Representation Learning  
 https://arxiv.org/abs/1909.11740  
+
+#### SEP/JOIN + CO  
+- Retrieve Fast, Rerank Smart: Cooperative and Joint Approaches for Improved Cross-Modal Retrieval  
+https://arxiv.org/abs/2103.11920  
