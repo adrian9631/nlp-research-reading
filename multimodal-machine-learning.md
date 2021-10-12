@@ -10,6 +10,24 @@ https://arxiv.org/abs/1610.04325
 - Adaptive Fusion Techniques for Multimodal Data  
 https://arxiv.org/abs/1911.03821  
 
+### Gaze Feature
+#### Sentiment and Sarcasm Classification 
+
+- Measuring sentiment annotation complexity of text  
+https://aclanthology.org/P14-2007/  
+
+- Predicting readers' sarcasm understandability by modeling gaze behavior  
+https://ojs.aaai.org/index.php/AAAI/article/view/9884  
+
+- Learning cognitive features from gaze data for sentiment and sarcasm classification using convolutional neural network  
+https://aclanthology.org/P17-1035/  
+
+- Cognition-cognizant sentiment analysis with multitask subjectivity summarization based on annotators' gaze behavior  
+https://ojs.aaai.org/index.php/AAAI/article/view/12068  
+
+- Sentiment and Sarcasm Classification with Multitask Learning   
+https://arxiv.org/abs/1901.08014  
+
 ### Pretrain Vision Model  
 #### ViT  
 - An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale  
