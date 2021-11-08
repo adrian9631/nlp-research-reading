@@ -9,3 +9,7 @@ https://arxiv.org/abs/1611.07004
 #### Cycle-Consistent Adversarial Network
 - Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks  
 https://arxiv.org/abs/1703.10593  
+
+#### WGAN  
+- Wasserstein GAN  
+https://arxiv.org/abs/1701.07875  
