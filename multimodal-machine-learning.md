@@ -33,7 +33,14 @@ https://arxiv.org/abs/1901.08014
 - An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale  
 https://arxiv.org/abs/2010.11929  
 
-### Pretrain V&L Model  
+- How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers  
+https://arxiv.org/abs/2106.10270  
+
+### Pretrain V&L Model
+
+#### Survey
+- A Survey of Vision-Language Pre-Trained Models  
+https://arxiv.org/abs/2202.10936  
 
 #### Transformer-basic
 - Transformer-Exclusive Cross-Modal Representation for Vision and Language  
@@ -66,3 +73,7 @@ https://arxiv.org/abs/1909.11740
 #### SEP/JOIN + CO  
 - Retrieve Fast, Rerank Smart: Cooperative and Joint Approaches for Improved Cross-Modal Retrieval  
 https://arxiv.org/abs/2103.11920  
+
+#### MLP
+- MLP Architectures for Vision-and-Language Modeling: An Empirical Study  
+https://arxiv.org/abs/2112.04453  
