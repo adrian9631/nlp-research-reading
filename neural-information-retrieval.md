@@ -9,3 +9,9 @@ https://arxiv.org/abs/1602.01137
 #### Hard Negative Samples  
 - Contrastive Learning with Hard Negative Samples  
 https://arxiv.org/abs/2010.04592  
+
+#### BERT4Rec 
+- BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer  
+https://arxiv.org/abs/1904.06690
+
+
