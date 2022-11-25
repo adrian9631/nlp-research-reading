@@ -10,6 +10,10 @@ https://arxiv.org/abs/1602.01137
 - Contrastive Learning with Hard Negative Samples  
 https://arxiv.org/abs/2010.04592  
 
+#### SASRec  
+- Self-Attentive Sequential Recommendation  
+https://arxiv.org/abs/1808.09781   
+  
 #### BERT4Rec 
 - BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer  
 https://arxiv.org/abs/1904.06690
