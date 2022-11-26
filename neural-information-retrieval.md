@@ -8,7 +8,19 @@ https://arxiv.org/abs/1602.01137
 
 #### Hard Negative Samples  
 - Contrastive Learning with Hard Negative Samples  
-https://arxiv.org/abs/2010.04592  
+https://arxiv.org/abs/2010.04592 
+
+#### GRU4Rec  
+- Session-based Recommendations with Recurrent Neural Networks  
+https://arxiv.org/abs/1511.06939  
+
+#### GRU4Rec*  
+- Recurrent Neural Networks with Top-k Gains for Session-based Recommendations  
+https://arxiv.org/abs/1706.03847  
+
+#### Caser  
+- Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding  
+https://arxiv.org/abs/1809.07426 
 
 #### SASRec  
 - Self-Attentive Sequential Recommendation  
