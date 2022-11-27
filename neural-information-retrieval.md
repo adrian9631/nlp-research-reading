@@ -30,7 +30,7 @@ https://arxiv.org/abs/1808.09781
 - BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer  
 https://arxiv.org/abs/1904.06690
 
-#### DQE  
+#### DPQ  
 - Differentiable Product Quantization for End-to-End Embedding Compression  
 https://arxiv.org/abs/1908.09756  
 
