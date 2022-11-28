@@ -38,4 +38,8 @@ https://arxiv.org/abs/1908.09756
 - Learning Multi-granular Quantized Embeddings for Large-Vocab Categorical Features in Recommender Systems  
 https://arxiv.org/abs/2002.08530  
 
+#### 3R Green  
+- Reduce, Reuse, Recycle: Green Information Retrieval Research  
+https://dl.acm.org/doi/10.1145/3477495.3531766  
+
 
