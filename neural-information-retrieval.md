@@ -30,6 +30,10 @@ https://arxiv.org/abs/1808.09781
 - BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer  
 https://arxiv.org/abs/1904.06690
 
+#### NOVA  
+- Non-invasive Self-attention for Side Information Fusion in Sequential Recommendation  
+https://arxiv.org/abs/2103.03578  
+
 #### DPQ  
 - Differentiable Product Quantization for End-to-End Embedding Compression  
 https://arxiv.org/abs/1908.09756  
@@ -38,7 +42,7 @@ https://arxiv.org/abs/1908.09756
 - Learning Multi-granular Quantized Embeddings for Large-Vocab Categorical Features in Recommender Systems  
 https://arxiv.org/abs/2002.08530  
 
-#### 3R Green  
+#### Green IR  
 - Reduce, Reuse, Recycle: Green Information Retrieval Research  
 https://dl.acm.org/doi/10.1145/3477495.3531766  
 
