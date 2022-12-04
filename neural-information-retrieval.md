@@ -46,4 +46,8 @@ https://arxiv.org/abs/2002.08530
 - Reduce, Reuse, Recycle: Green Information Retrieval Research  
 https://dl.acm.org/doi/10.1145/3477495.3531766  
 
+#### RSS (sampling)  
+- Effective and Efficient Training for Sequential Recommendation using Recency Sampling  
+https://arxiv.org/abs/2207.02643 
+
 
